@@ -171,7 +171,7 @@ hr{
 /* section 3 */
 .main4{
     background-color: rgba(250, 176, 16, 0.952);
-    height: 100vh;
+    height: 120vh;
 }
 .abt{
     text-align: center;
@@ -195,7 +195,7 @@ hr{
     line-height: 30px;
 }
 .free{
-    margin-top: 30px;
+    margin-top: 90px;
     margin-left: 43%;
 }
 .down{
@@ -356,5 +356,46 @@ span{
     } */
     .port, .abt, .cont, .main2{
         padding-top: 130px;
+    }
+    .contt{
+        height: 30vh;
+        /* width: 150%; */
+    }
+    .radius, .radius1, .radius2{
+        width: 30%;
+    }
+    .para1{
+        font-size: 15px;
+    }
+    .free{
+        margin-top: 30px;
+        margin-left: 30%;
+    }
+    .final{
+        margin-right: 50px;
+        margin-left: 5%;
+        color: white;
+        text-align: center;
+    }
+    .final1, .final2{
+        margin-right: 40px;
+        text-align: center;
+        
+    }
+    span{
+        color: white;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .loc{
+        color: white;
+        width: 100px;
+        font-size: 12px;
+    }
+    .looo{
+        color: white;
+        width: 150px;
+        font-size: 13px;
+        margin-top: 17px;
     }
 }
