@@ -338,7 +338,7 @@ span{
     .nav-bar{
         height: 0;
         position: absolute;
-        top: 80px;
+        top: 60px;
         left: 0;
         right: 0;
         width: 100vw;
@@ -363,13 +363,9 @@ span{
         /* margin-bottom: 100px; */
         margin: 0 40px;
     }
-    /* .nav-bar ul li a:hover{
-        color: black;
-        background-color: white;
-        padding: 20px;
-        border-radius: 20px;
-        
-    } */
+    .par1{
+        font-size: 20px;
+    }
     .port, .abt, .cont, .main2{
         padding-top: 130px;
     }
