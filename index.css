@@ -296,7 +296,23 @@ span{
     background-color: black;
     height: 10vh;
 }
-
+.llogo{
+    display: flex;
+    width: 20px;
+}
+.llll{
+    width: 40px;
+    padding: 0 3px;
+    margin-top: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+    
+}
+.llll:hover{
+    background-color: rgba(255, 255, 255, 0.397);
+    border-radius: 50px;
+    transition: 0.5s;
+}
 
 @media only screen and (max-width: 1320px){
     header{
@@ -386,6 +402,7 @@ span{
         color: white;
         font-size: 12px;
         font-weight: bold;
+        /* margin-left: ; */
     }
     .loc{
         color: white;
@@ -398,4 +415,9 @@ span{
         font-size: 13px;
         margin-top: 17px;
     }
+    .llll{
+        width: 30px;
+        margin-left: 5px;    
+    }
+    
 }
