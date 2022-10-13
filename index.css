@@ -345,10 +345,13 @@ span{
     }
     .main4{
         margin-top: 150px;
-        height: 150vh;
+        height: 160vh;
     }
     .main5{
         height: 160vh;
+    }
+    .main6{
+        height: 40vh;
     }
     .final{
         margin-right: 80px;
