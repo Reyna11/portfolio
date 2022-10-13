@@ -49,7 +49,7 @@ ul{
 } */
 .main2{
     background-color:rgba(250, 176, 16, 0.952);
-    height: 70vh;
+    height: 80vh;
     width: 100%;
     padding-top: 75px;
     
@@ -344,15 +344,15 @@ span{
         width: 30%;
     }
     .main4{
-        margin-top: 80px;
+        margin-top: 150px;
         height: 150vh;
     }
     .main5{
         height: 150vh;
     }
     .final{
-        margin-right: 50px;
-        margin-left: 10%;
+        margin-right: 80px;
+        margin-left: 20%;
         color: white;
         text-align: center;
     }
