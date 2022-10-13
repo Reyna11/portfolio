@@ -334,8 +334,11 @@ span{
     .main2{
         height: 100vh;
     }
+    .house{
+        width: 40%;
+    }
     .contt{
-        height: 35vh;
+        height: 30vh;
     }
     .radius, .radius1, .radius2{
         width: 30%;
@@ -523,8 +526,11 @@ span{
     .port, .abt, .cont, .main2{
         padding-top: 130px;
     }
+    .house{
+        width: 30%;
+    }
     .contt{
-        height: 33vh;
+        height: 20vh;
         /* width: 150%; */
     }
     .radius, .radius1, .radius2{
@@ -568,6 +574,15 @@ span{
     .llll{
         width: 30px;
         margin-left: 5px;    
+    }
+    .main2{
+        height: 70vh;
+    }
+    .main4{
+        height: 120vh;
+    }
+    .main5{
+        height: 100vh;
     }
     .main6{
         height: 25vh;
