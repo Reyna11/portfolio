@@ -323,6 +323,62 @@ span{
     header{
         padding: 0 30px;
     }
+    .logo{
+        margin-left: 10%;
+        margin-right: 15%;
+    }
+    .par1{
+        font-size: 20px;
+        display: inline-block;
+    }
+    .main2{
+        height: 100vh;
+    }
+    .contt{
+        height: 35vh;
+    }
+    .radius, .radius1, .radius2{
+        width: 30%;
+    }
+    .main4{
+        margin-top: 30px;
+        height: 150vh;
+    }
+    .main5{
+        height: 150vh;
+    }
+    .final{
+        margin-right: 50px;
+        margin-left: 10%;
+        color: white;
+        text-align: center;
+    }
+    .final1, .final2{
+        margin-right: 50px;
+        text-align: center;
+    }
+    span{
+        color: white;
+        font-size: 12px;
+        font-weight: bold;
+        /* margin-left: ; */
+    }
+    .loc{
+        color: white;
+        width: 100px;
+        font-size: 13px;
+    }
+    .looo{
+        color: white;
+        width: 150px;
+        font-size: 13px;
+        margin-top: 17px;
+    }
+    .llll{
+        width: 30px;
+        margin-left: 5px;    
+    }
+    
   
 }
 /* @media only screen and (max-width: 900px){
