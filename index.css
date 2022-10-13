@@ -343,9 +343,9 @@ span{
         left: 0;
         right: 0;
         width: 100vw;
-        background: rgb(2, 2, 59);;
+        background: rgb(2, 2, 59);; */
         /* transition: 0.5s; */
-        overflow: hidden;
+        /* overflow: hidden;
     }
     .nav-bar.links{
         height: 50px;
@@ -360,9 +360,9 @@ span{
     .nav-bar.links ul{
         opacity: 1;
     }
-    .nav-bar ul li a{
+    .nav-bar ul li a{ */
         /* margin-bottom: 100px; */
-        margin: 0 40px;
+        /* margin: 0 40px;
     }
     .par1{
         font-size: 20px;
@@ -371,9 +371,9 @@ span{
         padding-top: 130px;
     }
     .contt{
-        height: 33vh;
+        height: 33vh; */
         /* width: 150%; */
-    }
+    /* }
     .radius, .radius1, .radius2{
         width: 30%;
     }
@@ -398,9 +398,9 @@ span{
     span{
         color: white;
         font-size: 10px;
-        font-weight: bold;
+        font-weight: bold; */
         /* margin-left: ; */
-    }
+    /* }
     .loc{
         color: white;
         width: 100px;
