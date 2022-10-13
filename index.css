@@ -335,16 +335,16 @@ span{
         height: 100vh;
     }
     .house{
-        width: 40%;
+        width: 35%;
     }
     .contt{
-        height: 30vh;
+        height: 40vh;
     }
     .radius, .radius1, .radius2{
         width: 30%;
     }
     .main4{
-        margin-top: 30px;
+        margin-top: 80px;
         height: 150vh;
     }
     .main5{
@@ -576,6 +576,9 @@ span{
         margin-left: 5px;    
     }
     .main2{
+        height: 70vh;
+    }
+    .main3{
         height: 70vh;
     }
     .main4{
