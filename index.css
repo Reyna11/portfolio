@@ -155,18 +155,18 @@ hr{
 }
 .radius:hover{
     background-color: rgba(255, 255, 0, 0.534);
-    cursor: pointer;
-    transition: 2s;
+    /* cursor: pointer; */
+    /* transition: 2s; */
 }
 .radius1:hover{
     background-color: green;
-    cursor: pointer;
-    transition: 2s;
+    /* cursor: pointer; */
+    /* transition: 2s; */
 }
 .radius2:hover{
     background-color: blue;
-    cursor: pointer;
-    transition: 2s;
+    /* cursor: pointer; */
+    /* transition: 2s; */
 }
 /* section 3 */
 .main4{
